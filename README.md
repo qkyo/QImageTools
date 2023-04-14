@@ -17,6 +17,9 @@ Clone and install locally.
 4. Build(Play) in the scene
 
 ## Usage
+
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/Inspector.png)
+    
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/CubeMap.png)
+    
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/SphericalMap.png)
