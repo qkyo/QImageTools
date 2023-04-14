@@ -18,8 +18,11 @@ Clone and install locally.
 
 ## Usage
 
+ * Inspector
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/Inspector.png)
     
+ * CubeMap
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/CubeMap.png)
     
+ * SphericalMap
     ![image](https://github.com/qkyo/QImageTools/blob/main/Img/SphericalMap.png)
