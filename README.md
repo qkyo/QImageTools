@@ -16,7 +16,7 @@ Clone and install locally.
 3. Keep the gameobject ``` SceneManager ``` selected， and drap your cubemap to  in the ``` Inspector ```
 4. Build(Play) in the scene
 
-## Usage
+## Example
 
  * Inspector
  
